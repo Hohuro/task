@@ -1,35 +1,41 @@
-.h1{
-    display: block;
-    font-size: 2em;
-    font-weight: bold;
-}
-
-.h3{
-    display: block;
-    font-size: 1.17em;
-    font-weight: bold;
-}
-
-.center{
-    margin: auto;
-    width: 60%;
-    padding: 10px;
-    text-align: center;
+.limit{
+    padding: 0px 300px 20px;
 }
 
 .leftimg 
 {
     float:left; 
-    margin: 7px 7px 7px 0; 
+    margin: 0px 7px 7px 0; 
+    width: 23%;
+    height: auto;
 }
 
 table{
     border: 3px solid black;
     border-collapse: collapse; 
     text-align: left;
+    margin: 10px 200px 20px;
 }
 
 td{
  border: 3px solid black;
  padding: 10px
 }
+
+.indentation{
+    padding-bottom: 30px;
+}
+
+.textSize{
+    font-size: 120%;
+}
+
+.center{
+    margin: auto;
+    text-align: center;
+}
+
+ .conclusion{
+    text-align: justify;
+    padding: 5px 100px 10px;
+ }
